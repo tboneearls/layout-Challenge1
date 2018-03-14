@@ -1,0 +1,21 @@
+body {
+	background-color: #66E9B7;
+}
+body * {
+	background-color: white;
+	border: 1px solid black;
+	display: inline-block;	
+	margin: 5px;
+}
+header, footer {
+	height: 15vh;
+	display: block;
+}
+.half{
+	width: 48%;
+	height: 40vh;
+}
+.third{
+	width: 31%;
+	height: 20vh;
+}
